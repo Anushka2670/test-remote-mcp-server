@@ -1,4 +1,5 @@
 [![M8ven Score](https://m8ven.ai/badge/mcp/anushka2670/test-remote-mcp-server)](https://m8ven.ai/mcp/anushka2670/test-remote-mcp-server)
+[![M8ven Score](https://m8ven.ai/badge/mcp/anushka2670-test-remote-mcp-server-1nxgi8?v=020d6793c747a4c9ad399c68f720bbb3)](https://m8ven.ai/mcp/anushka2670-test-remote-mcp-server-1nxgi8?s=readme)
 
 
 A lightweight *Model Context Protocol (MCP) server* for managing personal expenses through AI assistants and MCP-compatible clients.
